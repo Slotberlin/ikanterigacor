@@ -16,6 +16,7 @@
     <meta name="uaid_nonce"
         content="3:1758118441:hpJW_-rk3J208LmkzGBP8tpCOe6N:ab5c57aecf16b797e2954e4231936b1db0d25e29c5f2130956a28361544488a8">
     <meta property="fb:app_id" content="89186614300">
+    <meta name="google-site-verification" content="UK1Ser8FK1wLjsQ-cKHP0ZirdnsTsWOMOlQ20wuyWIw" />
     <meta name="css_dist_path" content="/ac/sasquatch/css/" />
     <meta name="dist" content="202509171758116252" />
     <script nonce="Orz4Gw3ss+NjE9o4F9MinPSB">
